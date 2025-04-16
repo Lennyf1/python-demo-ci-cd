@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python-demo-ci-cd"
+version = "0.1.0"
+description = "Python CI/CD Demo Project"
+authors = [{name = "Lennyf1", email = "georgy1731@gmail.com"}]
+requires-python = ">=3.8"
